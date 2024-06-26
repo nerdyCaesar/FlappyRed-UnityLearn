@@ -1,0 +1,52 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Pp]lugins/
+
+# Visual Studio / MonoDevelop project files
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Unity automatic add-ons
+*.apk
+*.aab
+*.unitypackage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+*.bak2
+*.orig
+
+# Unity Burst
+.burst
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# Ignore build results
+/Builds/
